@@ -1,4 +1,5 @@
 # 🌐 **Monitor de Concorrentes com LLMs e Gradio** 🚀
+![Captura de tela 2025-02-17 124315](https://github.com/user-attachments/assets/4f208767-bed8-420a-a742-f7af84ed0ce5)
 
 ## **Descrição** 💡
 
