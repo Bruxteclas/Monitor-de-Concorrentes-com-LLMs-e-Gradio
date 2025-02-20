@@ -37,7 +37,7 @@ A partir disso, você pode tomar decisões **mais informadas** e ajustar suas es
 
 Experimente o sistema em tempo real através do link abaixo (lembrando que ele expira em 72 horas):
 
-[**Clique aqui para acessar o Monitor de Concorrentes**]( https://3ade0b576cec4eb787.gradio.live)
+[**Clique aqui para acessar o Monitor de Concorrentes**](https://huggingface.co/spaces/Bruxteclas/Monitor-concorrentes)
 
 ---
 
@@ -46,7 +46,7 @@ Experimente o sistema em tempo real através do link abaixo (lembrando que ele e
 - **Python** 🐍
 - **Gradio** 🌟: Interface interativa e fácil de usar.
 - **BeautifulSoup** 🔎: Para coleta de dados da web.
-- **OpenAI GPT-4** 🤖: Para análise e geração de insights.
+- **OpenAI GPT-4o-mini** 🤖: Para análise e geração de insights.
 - **dotenv** 🔐: Para gerenciar as chaves de API de forma segura.
 
 ---
