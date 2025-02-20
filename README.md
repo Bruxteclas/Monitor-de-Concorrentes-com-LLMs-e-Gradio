@@ -35,7 +35,7 @@ A partir disso, você pode tomar decisões **mais informadas** e ajustar suas es
 
 ## **Demonstração ao Vivo** ✨
 
-Experimente o sistema em tempo real através do link abaixo (lembrando que ele expira em 72 horas):
+Experimente o sistema em tempo real através do link abaixo:
 
 [**Clique aqui para acessar o Monitor de Concorrentes**](https://huggingface.co/spaces/Bruxteclas/Monitor-concorrentes)
 
