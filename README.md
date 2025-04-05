@@ -68,7 +68,7 @@ A análise da concorrência vai além de entender o que os outros estão fazendo
 Com a automação, as empresas podem economizar tempo e recursos, permitindo que se concentrem em tarefas estratégicas.
 
 ### 🚀 **Inovação**
-O uso de **inteligência artificial** e **tecnologia de ponta** (GPT-4) posiciona este projeto como uma solução inovadora para os desafios atuais do mercado.
+O uso de **inteligência artificial** e **tecnologia de ponta** posiciona este projeto como uma solução inovadora para os desafios atuais do mercado.
 
 ### 📈 **Escalabilidade**
 Esse sistema pode ser **adaptado** para diferentes setores e empresas de diversos portes, aumentando seu alcance e impacto.
